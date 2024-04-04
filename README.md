@@ -23,9 +23,9 @@
 </a> <a href="https://www.linkedin.com/in/gustavo-damaceno/" title="Gustavo Damaceno">Gustavo Damaceno</a>
  <br />
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavoddainezi)](https://github.com/gustavoddainezi)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gustavo-Damaceno)](https://github.com/Gustavo-Damaceno)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-damaceno/)](https://www.linkedin.com/in/gustavo-damaceno/)
-[![Outlook Badge](https://img.shields.io/badge/gustavo.dainezi@fatec.sp.gov.br-gray?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:gustavo.dainezi@fatec.sp.gov.br)](mailto:gustavo.dainezi@fatec.sp.gov.br)
+[![Outlook Badge](https://img.shields.io/badge/gustavo.dam.dai@gmail.com-gray?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:gustavo.dam.dai@gmail.com)](mailto:gustavo.dam.dai@gmail.com)
 
 ## 📝 Licença
 
